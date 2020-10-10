@@ -1,7 +1,7 @@
-Nombre: Oscar Romero Rosales
+﻿Nombre: Oscar Romero Rosales
 Edad: 21 años
 Juegos actuales: COD Mobile
 Juegos favoritos: COD warzone
-Carrera:
-Especialidad:
+Carrera: Ingenieria Petrolera
+Especialidad:Perforacion de pozos
 
