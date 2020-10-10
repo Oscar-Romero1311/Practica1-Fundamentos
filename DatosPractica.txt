@@ -1,4 +1,5 @@
-Nombre
-Edad
-Juegos actuales
-Juegos favoritos
+Nombre: Oscar Romero Rosales
+Edad: 21 años
+Juegos actuales: COD Mobile
+Juegos favoritos: COD warzone
+
