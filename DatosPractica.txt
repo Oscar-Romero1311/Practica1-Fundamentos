@@ -4,6 +4,6 @@ Juegos actuales: COD Mobile
 Juegos favoritos: COD warzone
 Carrera: Ingenieria Petrolera
 Especialidad:Perforacion de pozos
-Materia
-Semestre
+Materia: Fundamentos de programación
+Semestre: Segundo
 
